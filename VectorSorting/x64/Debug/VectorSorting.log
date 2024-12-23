@@ -1,0 +1,5 @@
+﻿  VectorSorting.cpp
+C:\Users\neptune\source\repos\VectorSorting\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neptune\source\repos\VectorSorting\VectorSorting.cpp(212,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\neptune\source\repos\VectorSorting\VectorSorting.cpp(328,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VectorSorting.vcxproj -> C:\Users\neptune\source\repos\VectorSorting\x64\Debug\VectorSorting.exe
